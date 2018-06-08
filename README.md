@@ -28,9 +28,9 @@ This game is developed in pure javascript. The graphics part is based on [Babylo
 ≈6M first load without browser cache.
 
 ### Compatibility
-It's mainly targeting for supporting the latest versions (by June, 1018) of these browsers below:
+It's mainly targeting for supporting the latest versions (by June, 2018) of these browsers below:
 * **Firefox** ( Tested on both win & mac )
-* **Google Chrome** ( Tested on both win & mac )
+* **Chrome** ( Tested on both win & mac )
 * **Safari** ( Tested on mac )
 * **Edge** ( Tested on win )
 
