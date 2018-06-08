@@ -8,6 +8,7 @@ PCOL is a WebGL based 3D billiards game. And this repo is for providing informat
 ## Bug Report / Feedback
 For bug report and **PUBLIC** feedback/questions, please [open a new issue.](https://github.com/heyzxz/all-about-pcol/issues)
 If you don't wanna make your questions public, here is my email: [heyzxz@gmail.com](mailto:heyzxz@gmail.com).
+For bug report, firstly please make sure it is not included in the **[Known Issues](https://github.com/heyzxz/all-about-pcol#known-issues)** below.
 ## About The Game
 
 ## Technical Specs
@@ -33,3 +34,14 @@ Currently no... Computations are too heavy for them.
 
 *Please note that as it is based on WebGL, performance/compatibility is also depend on your GPU performance of your device.*
 
+## Known Issues
+1. **Rules of Snooker needs to be improved.** Includes:
+	1. There is no way to require the fouling player to take a shot again.
+	1. Jump shots Fouls. Currently it is just allowed.
+	1. Free balls. Currently don't have.
+	1. There is no way to state the desired color when shoting color balls. I'm still thinking about how to do this...
+
+1. **Some Physical parameters needs to be tweaked.**
+
+### FAQ
+TODO
