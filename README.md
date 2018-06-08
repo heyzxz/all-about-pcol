@@ -33,13 +33,13 @@ It's mainly targeting for supporting the latest versions of these browsers below
 
 **Other WebGL-supported browsers?** - not test yet...
 
+*Please note that as it is based on WebGL, performance/compatibility is also depend on the GPU performance of your device.*
+
 ### Recommended Browsers
 * Browsers with **WebGL 2.0** support are recommended. See [here](https://caniuse.com/#search=webgl2) for which.
 * According to my personal tests on mac (mid 2015, i7, AMD Radeon R9 M370X 2048 MB), **Firefox(60.0.2 (64-bit))** is the winner.
 ### Mobile Browsers?
 Currently no... Computations are too heavy for them.
-
-*Please note that as it is based on WebGL, performance/compatibility is also depend on the GPU performance of your device.*
 
 ## Known Issues
 * **Rules of Snooker needs to be improved.** Includes:
