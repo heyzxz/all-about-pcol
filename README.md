@@ -17,7 +17,7 @@ If you don't wanna make your question public, here is my email: [heyzxz@gmail.co
 * **[[FAQ]](#known-issues)**
 
 ## Intro
-PCOL is a WebGL based 3D billiards web game. You can now play an early preview version [here](http://www.heyzxz.me/pcol), just in your browser (See [Compatibility](#campatibility) section below).
+PCOL is a WebGL based 3D billiards web game. You can now play an early preview version [here](http://www.heyzxz.me/pcol), just in your browser (See [Compatibility](#compatibility) section below).
 
 The preview version only provides Snooker mode, more game modes may be added in the future.
 
@@ -28,7 +28,7 @@ This game is developed in pure javascript. The graphics part is based on [Babylo
 ≈6M first load without browser cache.
 
 ### Compatibility
-It's mainly targeting for supporting the latest versions of these browsers below:
+It's mainly targeting for supporting the latest versions (by June, 1018) of these browsers below:
 * **Firefox** ( Tested on both win & mac )
 * **Google Chrome** ( Tested on both win & mac )
 * **Safari** ( Tested on mac )
@@ -41,7 +41,7 @@ It's mainly targeting for supporting the latest versions of these browsers below
 *Please note that as it is based on WebGL, performance/compatibility also depends on the GPU performance of your device.*
 
 ### Recommended Browsers
-* Browsers with **WebGL 2.0 support** are recommended. See [here](https://caniuse.com/#search=webgl2) for which.
+* Browsers with **WebGL 2.0 support** are recommended. See [here](https://caniuse.com/#search=webgl2) to tell which.
 * According to my personal tests on mac (mid 2015, i7, AMD Radeon R9 M370X 2048 MB), **Firefox(60.0.2 (64-bit))** is the winner.
 ### Mobile Browsers?
 Currently no... Computations are too heavy for them.
@@ -53,7 +53,7 @@ Currently no... Computations are too heavy for them.
 	* Free balls. Currently don't have.
 	* State the desired color when shoting color balls. (I'm still thinking about how...)
 
-* **Some physical parameters needs to be tweaked.**
+* **Some physical parameters need to be tweaked.**
 
 ### FAQ
 TODO
