@@ -25,10 +25,10 @@ I mainly targets for supporting these desktop browsers below:
 For **IE11**, sorry no...
 For other WebGL-supported browsers, not test yet...
 
-#### Recommended Browsers
+### Recommended Browsers
 Browsers with **WebGL 2.0** support are recommended. See [here](https://caniuse.com/#search=webgl2) for which.
 According to my personal tests on my Mac (mid 2015, i7, AMD Radeon R9 M370X 2048 MB), **Firefox(60.0.2 (64-bit))** is the winner.
-#### Mobiles Browsers?
+### Mobile Browsers?
 Currently no... Computations are too heavy for them.
 
 *Please note that as it is based on WebGL, performance/compatibility is also depend on your GPU performance of your device.*
