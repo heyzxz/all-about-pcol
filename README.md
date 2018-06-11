@@ -1,50 +1,19 @@
 # All About PCOL
-This repo is for providing informations about PCOL and collecting user feedback.
+This repo is for providing informations about [PCOL](http://www.heyzxz.me/pcol) and collecting user feedback.
 
 ![pcol-poster](./img/pcol-poster.jpg)
 
-**[Play Now](http://www.heyzxz.me/pcol)**
+## Bug Report/Ask Questions
+Please use **[Issues.](https://github.com/heyzxz/all-about-pcol/issues)**
 
-## Bug Report / Feedback
-Please use **[Issues](https://github.com/heyzxz/all-about-pcol/issues)** for bug report and questions/feedback.
+## About
 
-If you don't wanna make your question public, here is my email: [heyzxz@gmail.com](mailto:heyzxz@gmail.com).
+[PCOL](http://www.heyzxz.me/pcol) is a WebGL based 3D billiards web game made with [Babylon.js](https://github.com/BabylonJS/Babylon.js).
 
-## About The Game
-* **[[Intro]](#intro)**
-* **[[Technical Specs]](#technical-specs)**
-* **[[Known Issues]](#known-issues)**
-* **[[FAQ]](#known-issues)**
+## Compatibility
 
-## Intro
-PCOL is a WebGL based 3D billiards web game. You can now play an early preview version [here](http://www.heyzxz.me/pcol), just in your browser (See [Compatibility](#compatibility) section below).
+[See this wiki.](https://github.com/heyzxz/all-about-pcol/wiki/Compatibility)
 
-The preview version only provides Snooker mode, more game modes may be added in the future.
-
-## Technical Specs
-This game is developed in pure javascript. The graphics part is based on [Babylonjs](https://github.com/BabylonJS/Babylon.js) Engine.
-
-### File Size
-≈6M first load without browser cache.
-
-### Compatibility
-It's mainly targeting for supporting the latest versions (by June, 2018) of these browsers below:
-* **Firefox** ( Tested on both win & mac )
-* **Chrome** ( Tested on both win & mac )
-* **Safari** ( Tested on mac )
-* **Edge** ( Tested on win )
-
-**IE11?** - sorry no...
-
-**Other WebGL-supported browsers?** - not test yet...
-
-*Please note that as it is based on WebGL, performance/compatibility also depends on the GPU performance of your device.*
-
-### Recommended Browsers
-* Browsers with **WebGL 2.0 support** are recommended. See [here](https://caniuse.com/#search=webgl2) to tell which.
-* According to my personal tests on mac (mid 2015, i7, AMD Radeon R9 M370X 2048 MB), **Firefox(60.0.2 (64-bit))** is the winner.
-### Mobile Browsers?
-Currently no... Computations are too heavy for them.
 
 ## Known Issues
 * **Rules of Snooker needs to be improved.** Including:
@@ -55,6 +24,5 @@ Currently no... Computations are too heavy for them.
 
 * **Some physical parameters need to be tweaked.**
 
-### FAQ
-TODO
+
 
