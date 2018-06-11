@@ -18,9 +18,9 @@ Please use **[Issues.](https://github.com/heyzxz/all-about-pcol/issues)**
 ## Known Issues
 * **Rules of Snooker needs to be improved.** Including:
 	* Require the fouling player to take a shot again.
-	* Jump shots Fouls. Currently it is just allowed.
+	* Jump shots shouldn't be allowed for Snooker.
 	* Free balls. Currently don't have.
-	* State the desired color when shoting color balls. (I'm still thinking about how...)
+	* State the desired color when shoting a color ball. (I'm still thinking about how...)
 
 * **Some physical parameters need to be tweaked.**
 
